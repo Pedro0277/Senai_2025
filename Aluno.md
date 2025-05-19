@@ -1,2 +1,3 @@
 Pedro
 
+Programador Full Stack
